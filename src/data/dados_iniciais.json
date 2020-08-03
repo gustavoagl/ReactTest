@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Worst series",
+      "link": "https://www.youtube.com/watch?v=cq2iTHoLrt0",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/watch?v=cq2iTHoLrt0"
+      },
+      "videos": [
+        {
+          "titulo": "Worst movies and Series",
+          "url": "https://www.youtube.com/watch?v=cq2iTHoLrt0"
+        },
+        {
+          "titulo": "Arrow",
+          "url": "https://www.youtube.com/watch?v=-OeRdDgwkR0"
+        },
+        {
+          "titulo": "Flash",
+          "url": "https://www.youtube.com/watch?v=Yj0l7iGKh8g"
+        },
+        {
+          "titulo": "Punho de Ferro",
+          "url": "https://www.youtube.com/watch?v=03W2ffgkYDM"
+        },
+        {
+          "titulo": "La casa de Papel",
+          "url": "https://www.youtube.com/watch?v=yKXYXgo7a3I"
+        },
+        {
+          "titulo": "Stranger things",
+          "url": "https://www.youtube.com/watch?v=QsYMm3OOLRU"
+        },
+        {
+          "titulo": "Marco Polo",
+          "url": "https://www.youtube.com/watch?v=cDeTPgkOTaQ"
+        },
+        {
+          "titulo": "Os Defensores",
+          "url": "https://www.youtube.com/watch?v=idQmQQBcCmE"
+        }        
+      ]
+    },
+    {
+      "titulo": "Worst animes",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Dragoon ball",
+          "url": "https://www.youtube.com/watch?v=_K91eeP25NA"
+        },
+        {
+          "titulo": "Evangelion",
+          "url": "https://www.youtube.com/watch?v=13nSISwxrY4"
+        },
+        {
+          "titulo": "Cavaleiros do Zodíaco - Ômega",
+          "url": "https://www.youtube.com/watch?v=WhV_KkFlWUY"
+        },
+        {
+          "titulo": "One piece",
+          "url": "https://www.youtube.com/watch?v=S8_YwFLCh4U"
+        }, 
+        {
+          "titulo": "HunterxHunter",
+          "url": "https://www.youtube.com/watch?v=d6kBeJjTGnY"
+        }
+      ]
+    },
+    {
+      "titulo": "Worst cartoon movies",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "?",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "titulo": "Worst Movies",
+      "cor": "#800000",
+      "videos": [
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "titulo": "Worst Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "titulo": "Musics",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
